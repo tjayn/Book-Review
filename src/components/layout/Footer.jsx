@@ -79,7 +79,7 @@ const Footer = () => {
         </div>
 
         <div className="border-t border-gray-800 mt-8 pt-8 text-center text-sm text-gray-400">
-          <p>&copy; 2025 BookHive. All rights reserved.</p>
+          <p>&copy; 2026 BookHive. All rights reserved.</p>
         </div>
       </div>
     </footer>
