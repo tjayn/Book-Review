@@ -54,7 +54,7 @@ npm --version
 
 1. Clone the repository
 ```
-git clone https://github.com/ianshulx/React-projects-for-beginners/Book_Review_Platform
+git clone https://github.com/tjayn/Book-Review.git
 ```
 
 2. Navigate to the project directory
